@@ -1,2 +1,2 @@
 # A02
-Tutorial on how to use GitHub
+A02 – Git, GitHub, and WebStorm Tutorial
