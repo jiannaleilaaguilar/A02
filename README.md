@@ -28,15 +28,27 @@ For future changes you make in this file, it must be "pushed." Click the Push ic
 
 
 Glossary:
+
 Branch- timeline for your code that allows you to develop features in isolation before adding them to the main project.
+
 Clone- term for downloading an existing Repository from Github to your local computer so you can work on it.
+
 Commit- saves your project at a specific point in time.
+
 Fetch- checks  the remote repository for updates.
+
 GIT- used to track changes in source code during software development.
+
 Github- web-based platform used for version control and hosting GIT repositories.
+
 Merge- process of joining two different branch histories together.
+
 Merge Conflict- where GIT cannot automatically decide which code to keep.
+
 Push- command used to upload your local commit history to a remote repository on Github.
+
 Pull- command that downloads changes from the remote repository and immediately merges them into your local files.
+
 Remote- version of your project hosted on a server 
+
 Repository-directory or storage space where your project, its files, and its entire version history are kept for you to reference.
